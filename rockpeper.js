@@ -146,4 +146,5 @@ const round = document.querySelector(".round");
    winText.style.display = "none"; 
  });
     
-}
+} 
+
